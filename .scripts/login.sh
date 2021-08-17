@@ -9,8 +9,8 @@ YELLOW="\e[93m"
 GREEN="\e[92m"
 DEFAULT="\e[39m"
 
-user="xshin"
-pass="xshin"
+user=""
+pass=""
 
 handle_ctrl_c() {
 
